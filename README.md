@@ -9,3 +9,5 @@ Repositório criado para o Desafio de Projeto.
 
 [Repositório Curso de Python](https://github.com/guicarvalho/python-os-primeiros-passos)
 
+[Documentação Python](https://docs.python.org/pt-br/3/)
+
