@@ -1,0 +1,12 @@
+
+Comandos úteis GIT
+
+git clone
+
+git status
+
+git add .
+
+git commit -m "Inclusão do Curso de Git/Hub"
+
+git push origin main
